@@ -1,1 +1,1 @@
-# Connect4_ML
+# Connect 4 AI Game Agent with Reinforced Learning
